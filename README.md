@@ -6,3 +6,4 @@ Google drive: ⬇️
 ✅ short text: https://drive.google.com/file/d/17OvyoZj6j9FAayCynFIlCbcmMJPPpoWo/view?usp=drive_link, including tweets, character count, view count, likes count , reply count and retweet count columns
 ✅ long text: https://drive.google.com/file/d/1TBUEGTE2-2o4X42ajWyPi-ZM00z3cBw3/view?usp=drive_link, including tweets, character count, view count, likes count , reply count and retweet count columns
 
+I suggest don't use T score cuz I used in this research, plz use Bayesian probability. 
